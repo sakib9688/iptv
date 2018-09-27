@@ -1,35 +1,13 @@
 #EXTM3U
-#EXTINF:0,-------- Bangladesh -------
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11713.ts
-#EXTINF:0,BAN: Colors Bangla
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/3607.ts
-#EXTINF:0,BAN: Channel 24
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11712.ts
-#EXTINF:0,BAN: ATN Bangla
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11711.ts
-#EXTINF:0,BAN: ATN NEWS
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11710.ts
-#EXTINF:0,BAN: Boishakhi TV
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11709.ts
-#EXTINF:0,BAN: Channel 9
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11708.ts
-#EXTINF:0,BAN: CHANNEL I
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11707.ts
-#EXTINF:0,BAN: Mohona TV
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11705.ts
-#EXTINF:0,BAN: AB TV
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11704.ts
-#EXTINF:0,BAN: JALSHA MOVIES
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11703.ts
-#EXTINF:0,BAN: NTV
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11702.ts
-#EXTINF:0,BAN: RTV
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11701.ts
-#EXTINF:0,BAN: Ruposhi Bangla
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11700.ts
-#EXTINF:0,BAN: Star Jalsha
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11699.ts
-#EXTINF:0,BAN: ZEE Bangla
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11698.ts
-#EXTINF:0,BAN: Zee Bangla Cinema
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/11697.ts
+#EXTINF:0,ATN BANGLA
+http://liive.jagobd.com:1935/tlive/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:0,BOISHAKHI TV
+http://liive.jagobd.com:1935/tlive/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:0,CHANNEL I
+http://liive.jagobd.com:1935/tlive/channeli-8-org.stream/playlist.m3u8
+#EXTINF:0,CHANNEL I EUROPE
+http://liive.jagobd.com:1935/tlive/channelieurope00002244134664456854.stream/playlist.m3u8
+#EXTINF:0,CHANNEL S
+http://202.181.176.50:1935/channels/channels/playlist.m3u8
+#EXTINF:0,MY TV
+http://202.191.121.37/mytv/mytv.m3u8
