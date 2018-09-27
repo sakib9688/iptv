@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:0,ATN BANGLA
-http://liive.jagobd.com:1935/tlive/atnbd-8-org.stream/playlist.m3u8
-#EXTINF:0,BOISHAKHI TV
-http://liive.jagobd.com:1935/tlive/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:0,CHANNEL I
-http://liive.jagobd.com:1935/tlive/channeli-8-org.stream/playlist.m3u8
-#EXTINF:0,CHANNEL I EUROPE
-http://liive.jagobd.com:1935/tlive/channelieurope00002244134664456854.stream/playlist.m3u8
-#EXTINF:0,CHANNEL S
-http://202.181.176.50:1935/channels/channels/playlist.m3u8
-#EXTINF:0,MY TV
-http://202.191.121.37/mytv/mytv.m3u8
+#EXTINF:-1,***HasBahCa IPTV***
+https://fbcdn-video-a.akamaihd.net/hvideo-ak-ash2/v/t43.1792-2/10173930_10152311674264266_1558689114_n.mp4?oh=d0d8a90ed99667f663c19456b6adccf8&oe=5346376F&__gda__=1397110539_49294f0485ab8e0db278f97ed2fef792
+#EXTINF:-1,atnnewsss
+rtmpe://85.17.73.8/flive playpath=en1-sat.stream swfUrl=http://zzcast.com/hplayer/player.swf live=1 pageUrl=http://www.zzcast.com/embeds.php?u=atnnewsss&vw=600&vh=400&domain=www.zzcast.com --live
+#EXTINF:-1,bvsn564sdes
+rtmpe://62.212.82.97/flive playpath=banglav000223231124455566.stream swfUrl=http://zzcast.com/hplayer/player.swf live=1 pageUrl=http://www.zzcast.com/embeds.php?u=bvsn564sdes&vw=600&vh=400&domain=www.zzcast.com
+#EXTINF:-1,mas24
+rtmpe://85.17.73.8/flive playpath=indtv0022333044556688556.stream swfUrl=http://zzcast.com/hplayer/player.swf live=1 pageUrl=http://www.zzcast.com/embeds.php?u=mas24&vw=600&vh=400&domain=www.zzcast.com
+#EXTINF:-1,ntvhq
+rtmpe://62.212.82.97/flive playpath=ntv26 swfUrl=http://zzcast.com/hplayer/player.swf live=1 pageUrl=http://www.zzcast.com/embeds.php?u=ntvhq&vw=600&vh=400&domain=www.zzcast.com
+#EXTINF:-1,rtvbdko
+rtmpe://85.17.73.8/flive playpath=rtv26 swfUrl=http://zzcast.com/hplayer/player.swf live=1 pageUrl=http://www.zzcast.com/embeds.php?u=rtvbdko&vw=600&vh=400&domain=www.zzcast.com
